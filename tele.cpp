@@ -18,7 +18,9 @@ class telephone{
            cout<<"Enter the phone number";
            cin>>no;
            cout<<endl<<"Enter the email id";
+
            cin>>mail;
+
            count++;
        }
 
